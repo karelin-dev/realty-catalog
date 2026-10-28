@@ -1,0 +1,1 @@
+import{t as e}from"./CgEDu6CB.js";import{B as t,L as n,p as r,r as i,u as a,v as o}from"./D8mX9f4R.js";import{n as s,t as c}from"#entry";var l={},u={id:`main`,tabindex:`-1`};function d(e,l){let d=s,f=c;return n(),r(i,null,[o(d),a(`main`,u,[t(e.$slots,`default`)]),o(f)],64)}var f=e(l,[[`render`,d]]);export{f as default};
